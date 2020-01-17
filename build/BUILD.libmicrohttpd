@@ -81,7 +81,7 @@ genrule(
 #define PACKAGE_STRING "GNU Libmicrohttpd 0.9.65"
 #define PACKAGE_TARNAME "libmicrohttpd"
 #define PACKAGE_URL "http://www.gnu.org/software/libmicrohttpd/"
-#define PACKAGE_VERSION "0.9.65"
+#define PACKAGE_VERSION "0.9.69"
 #define STDC_HEADERS 1
 #define VERSION "0.9.65"
 #if defined AC_APPLE_UNIVERSAL_BUILD
